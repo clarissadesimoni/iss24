@@ -1,9 +1,5 @@
-.hintrc
-unibolibs
-.DS_Store
-
 # Ignore Gradle project-specific cache directory
-project0/.gradle
+.gradle
 
 # Ignore Gradle build output directory
-project0/build
+build
