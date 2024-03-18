@@ -7,3 +7,9 @@ project0/.gradle
 
 # Ignore Gradle build output directory
 project0/build
+
+# Ignore Gradle project-specific cache directory
+servicemath24Usage/.gradle
+
+# Ignore Gradle build output directory
+servicemath24Usage/build
